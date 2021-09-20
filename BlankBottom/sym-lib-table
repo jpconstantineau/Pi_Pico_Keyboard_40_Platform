@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name CherryMX)(type Legacy)(uri ${KIPRJMOD}/symbols/CherryMX.lib)(options "")(descr ""))
+  (lib (name E73)(type Legacy)(uri C:/GIT/RP2040-Boards/libraries/schematics/E73.lib)(options "")(descr ""))
+  (lib (name pico_rp2040)(type Legacy)(uri C:/GIT/RP2040-Boards/libraries/schematics/pico_rp2040.lib)(options "")(descr ""))
+)
